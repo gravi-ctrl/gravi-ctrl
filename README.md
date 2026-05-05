@@ -1,5 +1,5 @@
-![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-blue)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Flicense-MIT-green?label=License)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fplatform-Linux%20%7C%20Windows-blue?label=Platform)
 
 # 👋 Hi, I'm gravi-ctrl
 
