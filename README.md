@@ -22,3 +22,8 @@ A cross-platform secure archival engine designed for zero-trust data backup.
 * **Zero-Disk Secrets:** Injects credentials directly into volatile RAM.
 * **Encrypted Vaults:** Automated orchestration of VeraCrypt containers.
 * **API Integration:** Programmatic archival of Bitwarden and Raindrop.io data.
+
+### 🐳 [server-docker-backup](https://github.com/gravi-ctrl/server-docker-backup)
+> **Note:** Primary development happens on [Codeberg](https://codeberg.org/gravi-ctrl/server-docker-backup).
+
+The Docker stack registry for my homelab. All Compose files, service configurations, and an auto-generated interactive dashboard.
