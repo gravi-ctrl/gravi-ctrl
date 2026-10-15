@@ -23,7 +23,9 @@ A cross-platform secure archival engine designed for zero-trust data backup.
 * **Encrypted Vaults:** Automated orchestration of VeraCrypt containers.
 * **API Integration:** Programmatic archival of Bitwarden and Raindrop.io data.
 
-### 🐳 [server-docker-backup](https://github.com/gravi-ctrl/server-docker-backup)
-> **Note:** Primary development happens on [Codeberg](https://codeberg.org/gravi-ctrl/server-docker-backup).
+### 🐳 server-docker-backup `[Private Infrastructure]`
 
-The Docker stack registry for my homelab. All Compose files, service configurations, and an auto-generated interactive dashboard.
+The internal Docker stack registry for my homelab. 
+* **GitOps Orchestration:** 20+ multi-container stacks managed with declarative Compose files.
+* **Automated Patching:** Self-hosted Renovate bot continuously updates image tags and dependencies.
+* **Service Discovery:** Automated metadata crawler mapping proxy hosts and ports to an interactive dashboard.
