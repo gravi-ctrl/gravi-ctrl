@@ -8,7 +8,6 @@ Systems & Automation Engineer focused on secure infrastructure and self-hosted s
 ## 📌 Featured Projects
 
 ### 🛠️ [homelab-blueprint](https://github.com/gravi-ctrl/homelab-blueprint) 
-> **Note:** Primary development happens on [Codeberg](https://codeberg.org/gravi-ctrl/homelab-blueprint).
 
 The "Brain" of my homelab. A self-maintaining ecosystem featuring:
 * **Infrastructure-as-Code:** Automated bare-metal bootstrap and recovery.
@@ -16,7 +15,6 @@ The "Brain" of my homelab. A self-maintaining ecosystem featuring:
 * **Observability:** Self-documenting script inventories and cron schedules.
 
 ### 🔐 [ctrl-s-master](https://github.com/gravi-ctrl/ctrl-s-master)
-> **Note:** Primary development happens on [Codeberg](https://codeberg.org/gravi-ctrl/ctrl-s-master).
 
 A cross-platform secure archival engine designed for zero-trust data backup.
 * **Zero-Disk Secrets:** Injects credentials directly into volatile RAM.
